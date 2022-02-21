@@ -5,7 +5,7 @@ use std::{
 
 use cpal::{
     traits::{DeviceTrait, HostTrait, StreamTrait},
-    Sample, SampleFormat,
+    SampleFormat,
 };
 
 fn main() {
